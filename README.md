@@ -29,4 +29,5 @@ Guesses: s t h n e
 
 Choose a letter or make a guess: y
 Good guess! y is in the word.
-You found all the letters in officially. You win!```
+You found all the letters in officially. You win!
+```
